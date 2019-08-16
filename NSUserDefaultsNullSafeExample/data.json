@@ -1,0 +1,12 @@
+{
+	"data": {
+		"nullDic": {
+            "null": null,
+            "nullArr": [null, "123"],
+        },
+		"null": null,
+		"nullArr": ["123", null],
+        "nullArrDic": ["123", ["123", null], null, {"nullDic" : null, "dic": "123"}],
+        "dic": "123"
+	},
+}
